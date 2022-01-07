@@ -60,5 +60,5 @@ Les membres qui souhaitent rejoindre le cercle des ambassadeurs peuvent contacte
 Les ambassadeurs en formation sont censés lire les [guides](https://about.airswap.io) pour mieux comprendre le produit et la technologie d'AirSwap, et pour aider à accueillir de nouveaux membres dans la communauté. Une fois prêts, les ambassadeurs peuvent nommer tout ambassadeur en formation dans le cercle des ambassadeurs. Si deux autres ambassadeurs se portent garants de la personne nommée, celle-ci sera automatiquement intronisée dans le cercle et pourra bénéficier des récompenses du cercle.
 
 {% hint style="info" %}
-Les ambassadeurs en formation peuvent aider à créer du contenu (par exemple, des tutoriels et des guides) et être récompensés par des [bounties](https://github.com/airswap/airswap-about/tree/d27062da8c952b6204d213079d222c1ffd6c96e9/bounties.md)!
+Les ambassadeurs en formation peuvent aider à créer du contenu (par exemple, des tutoriels et des guides) et être récompensés par des [bounties](https://github.com/airswap/airswap-about/blob/fr/community/bounties.md)!
 {% endhint %}
